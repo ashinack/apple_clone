@@ -1,0 +1,32 @@
+.navbar  a {
+    font-size: 12.2px;
+}
+p{
+    font-size: 13.2px;
+}
+.h2-style{
+    font-size: 56px;
+    line-height: 1.07143;
+    font-weight: 600;
+    letter-spacing: -.005em;
+    
+}
+.h4-style{
+    font-size: 30px;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif; 
+}
+.h4-font{
+    font-size: 21px;
+    line-height: 1.19048;
+    font-weight: 600;
+    letter-spacing: .011em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+hr.style1{
+	border-top: 1px solid #8c8b8b;
+}
+.footer-background{
+    background-color: #dfdfe47e;
+}
+
+
